@@ -1,0 +1,5 @@
+user=ocid1.user.oc1..aaaaaaaadbqez57lktkjg752bwg2pa7zlpyamhj4rpuc3xftmtpri4kb45ra
+fingerprint=75:5e:87:32:fa:db:78:2e:b1:5f:3f:65:f6:94:c0:20
+tenancy=ocid1.tenancy.oc1..aaaaaaaajwvatpaojv7y5ryg6iwul6jstx3zxbrrddttgxxz2vsyoh6citka
+region=us-ashburn-1
+key_file= ~/.oci/ssh_key.pem
